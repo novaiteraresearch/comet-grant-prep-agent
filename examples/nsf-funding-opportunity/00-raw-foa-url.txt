@@ -1,0 +1,11 @@
+# Funding Opportunity URL for this example
+# Program: NSF CISE Research Initiation Initiative (CRII)
+# Solicitation: NSF 23-615
+# Retrieved: 2026-02-22
+
+https://www.nsf.gov/pubs/2023/nsf23615/nsf23615.htm
+
+# Note: This is a real NSF solicitation used as a worked example.
+# All extracted content in 10-page-scrape.md reflects the actual
+# program requirements at the time of retrieval.
+# Replace with the current active solicitation URL before use.
